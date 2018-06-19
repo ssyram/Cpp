@@ -1,0 +1,24 @@
+{
+	"an_identifier_1": "value",
+	"new": {
+		"new1": "cba"
+	},
+	"string": "value",
+	"int": 2333,
+	"float": 2333.330000,
+	"scientific_notation": 1.234000E-10,
+	"bool": true,
+	"array": [
+		1,
+		2,
+		3,
+		[
+			1,
+			2,
+			3
+		],
+		{
+			"key": "value"
+		}
+	]
+}

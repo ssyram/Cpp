@@ -1,0 +1,22 @@
+﻿  Test.cpp
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\test.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\test.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  SyntaxAnalyzer.cpp
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\syntaxanalyzer.h(36): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\syntaxanalyzer.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\syntaxanalyzer.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  MainStuff.cpp
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\mainstuff.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\mainstuff.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\mainstuff.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\mainstuff.cpp(117): warning C4018: “>”: 有符号/无符号不匹配
+  Main.cpp
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\syntaxanalyzer.h(36): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\main.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  LaxAnalyzer.cpp
+  GlobalVariables.cpp
+  正在生成代码...
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\mainstuff.cpp(14): warning C4715: “turnToInt”: 不是所有的控件路径都返回值
+  LINK : 没有找到 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\YAMLiteDecoder\Debug\YAMLiteDecoder.exe 或上一个增量链接没有生成它；正在执行完全链接
+  YAMLiteDecoder.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\YAMLiteDecoder\Debug\YAMLiteDecoder.exe
+  YAMLiteDecoder.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\YAMLiteDecoder\Debug\YAMLiteDecoder.pdb (Partial PDB)

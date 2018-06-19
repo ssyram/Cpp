@@ -1,0 +1,24 @@
+﻿  GlobalVariables.cpp
+  LaxAnalyzer.cpp
+  Main.cpp
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\SyntaxAnalyzer.h(36): warning C4018: “<”: 有符号/无符号不匹配
+Main.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  MainStuff.cpp
+MainStuff.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+MainStuff.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+MainStuff.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+MainStuff.cpp(117): warning C4018: “>”: 有符号/无符号不匹配
+  SyntaxAnalyzer.cpp
+c:\users\administrator\documents\visual studio 2015\projects\yamlitedecoder\yamlitedecoder\SyntaxAnalyzer.h(36): warning C4018: “<”: 有符号/无符号不匹配
+SyntaxAnalyzer.cpp(5): warning C4018: “<”: 有符号/无符号不匹配
+SyntaxAnalyzer.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  Test.cpp
+Test.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+Test.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  12 of 819 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  YAMLiteDecoder.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\YAMLiteDecoder\Release\YAMLiteDecoder.exe
+  YAMLiteDecoder.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\YAMLiteDecoder\Release\YAMLiteDecoder.pdb (Full PDB)
